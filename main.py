@@ -1,4 +1,4 @@
-n =int(input("Введите числа")) 
+n =int(input("Введите числа: ")) 
 sum = 0 
 while n > 0:
     d = n % 10 
